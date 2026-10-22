@@ -1,0 +1,1 @@
+{"name":"mynotes-pwa-lengkap","version":"1.0.0","private":true,"description":"MyNotes PWA with JSON backend, user and admin roles","scripts":{"start":"node server.js"}}

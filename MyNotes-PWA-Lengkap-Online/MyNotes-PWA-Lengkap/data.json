@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "id": "admin-1",
+      "name": "Administrator",
+      "username": "admin",
+      "role": "admin",
+      "active": true,
+      "salt": "20c9071b357ed43ed836d4968a4a717b",
+      "passwordHash": "752e381a50fef283f221beb2b9ab8fbab28e18db34d91d0ce155884f3e451f4c74b4822f59e132633048f7d28a9d38c0b4d61d369b4f965e7c3d48d450c2c197",
+      "createdAt": 1792684737985
+    }
+  ],
+  "notes": [],
+  "categories": [
+    {
+      "id": "cat-personal",
+      "name": "Pribadi",
+      "color": "#6366f1",
+      "userId": "admin-1",
+      "createdAt": 1792684737985
+    }
+  ]
+}
